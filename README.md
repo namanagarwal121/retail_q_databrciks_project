@@ -1,0 +1,1 @@
+Retail-Q is a modern retail analytics data engineering platform built on Databricks using PySpark, Delta Lake, Structured Streaming, and Medallion Architecture. The project ingests data from Salesforce, PostgreSQL, and cloud storage, applies data quality validations, and builds business-ready fact and dimension models with a semantic metrics layer for analytics and reporting.
